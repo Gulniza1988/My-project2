@@ -1,0 +1,18 @@
+<svg width="58.252441" height="88.990234" viewBox="0 0 58.2524 88.9902" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip167_598">
+			<rect id="Frame" width="58.252438" height="88.990601" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Frame" width="58.252438" height="88.990601" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip167_598)">
+		<path id="path0 fill 1" d="M14.5586 88.9922C22.5972 88.9922 29.1172 82.3516 29.1172 74.166L29.1172 59.3398L14.5586 59.3398C6.52002 59.3398 0 65.9805 0 74.166C0 82.3516 6.52002 88.9922 14.5586 88.9922Z" fill="#0ACF83" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path1 fill 3" d="M0 44.4961C0 36.3105 6.52002 29.6699 14.5586 29.6699L29.1172 29.6699L29.1172 59.3398L14.5586 59.3398C6.52002 59.3223 0 52.6816 0 44.4961Z" fill="#A259FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path1 fill 2" d="M0 14.8262C0 6.64062 6.52002 0 14.5586 0L29.1172 0L29.1172 29.6699L14.5586 29.6699C6.52002 29.6699 0 23.0117 0 14.8262Z" fill="#F24E1E" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path2 fill 1" d="M29.135 0L43.6936 0C51.7322 0 58.2522 6.64062 58.2522 14.8262C58.2522 23.0117 51.7322 29.6523 43.6936 29.6523L29.135 29.6523L29.135 0Z" fill="#FF7262" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path3 fill 1" d="M58.2524 44.4961C58.2524 52.6816 51.7324 59.3223 43.6938 59.3223C35.6553 59.3223 29.1353 52.6816 29.1353 44.4961C29.1353 36.3105 35.6553 29.6699 43.6938 29.6699C51.7324 29.6699 58.2524 36.3105 58.2524 44.4961Z" fill="#1ABCFE" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
